@@ -1,0 +1,27 @@
+name: flutter_chat_gpt_bot
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+dependencies:
+  chat_gpt_sdk: ^2.1.1
+  dart_openai: ^1.9.1
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.0.2
+  jumping_dot: ^0.0.4
+  markdown_widget: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+assets:
+  - .env
