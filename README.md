@@ -11,8 +11,8 @@
 This is a Android ChatBot App created using Flutter and Chat-GPT3 API.
 
 ## Skills Learnt 
--[Consuming Api in Dart Language .]
--[Handling  state changes in Flutter] 
--[Authentication in Flutter] 
--[Use of AI Models in data generation in Flutter and Dart .]
+- Consuming Api in Dart Language.
+- Handling  state changes in Flutter.
+- Authentication in Flutter.
+- Use of AI Models in data generation in Flutter and Dart.
 
