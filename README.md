@@ -1,4 +1,4 @@
-# flutter_chat_gpt_bot
+# Chat-Bot
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@
 
 ## Project Description
 
-This is a Android ChatBot App created using Flutter and Chat-GPT3 API.
+This is a Android App ChatBot  created using Flutter and Chat-GPT3 API.
 
 ## Skills Learnt 
 - Consuming Api in Dart Language.
