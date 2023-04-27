@@ -43,5 +43,3 @@ Contributions to this app are welcome! If you find a bug or have a feature reque
 This app is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ---
-
-That's just an example, but you can customize it to fit the specifics of your app and the skills you learned while developing it. Good luck!
